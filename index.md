@@ -2,6 +2,8 @@
 layout: default
 ---
 
+A modified index page
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
