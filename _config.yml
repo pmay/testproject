@@ -2,3 +2,4 @@ title: Test Project
 description: Changed the sub-heading.
 show_downloads: true
 google_analytics:
+theme: jekyll-theme-architect
